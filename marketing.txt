@@ -13,3 +13,6 @@
 - v0.2: интегралы, упрощение выражений
 - v0.3: GUI на tkinter
 - v1.0: построение графиков функций
+
+Telegram-канал: https://t.me/matrixforgee
+VK-страница: https://vk.com/matrixforge
