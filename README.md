@@ -194,7 +194,7 @@ GitHub: https://github.com/equzerro/matrixforge
 Telegram: https://t.me/matrixforgee
 VK: https://vk.com/matrixforge
 Видео-презентация: 
-Методичка пользователя: [Титульный лист.pdf](https://github.com/user-attachments/files/28431929/default.pdf)
+Методичка пользователя: https://github.com/equzerro/MatrixForge/blob/main/Титульный%20лист.pdf
 
 
 
