@@ -1,4 +1,4 @@
-# MatrixForge v0.1-Demo
+# MatrixForge 
 
 MatrixForge — лёгкое математическое приложение для выполнения сложных вычислений.
 
